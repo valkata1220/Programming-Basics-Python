@@ -1,1 +1,1 @@
-#Programming-Basics-Puthon
+#Programming-Basics-Python
